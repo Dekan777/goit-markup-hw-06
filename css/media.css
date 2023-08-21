@@ -11,6 +11,15 @@
         justify-content: normal;
         gap: 56px;
       }
+      .header > .container {
+        padding: 0px 0px;
+      }
+
+.section-two {
+  font-size: 36px;
+    font-weight: 700;
+}
+
 .web-studio {
   justify-content: space-between;
   padding: 24px 0px;
@@ -49,9 +58,17 @@
     margin-bottom: 72px;
     color:#ffffff ;
   }
+
+
+.bg-email {
+  width: 398px;
+}
+.modal-window {
+  width: 408px;
 }
 
 
+}
 
 
 
