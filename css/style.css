@@ -108,7 +108,7 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-1);
-  margin-right: 76px;
+  
   display: inline-block;
 }
 
@@ -957,6 +957,7 @@ input.bg-email::placeholder {
 
 .modal-link {
   color: var(--color-1);
+  text-decoration: underline;
 }
 
 .modal-button {
